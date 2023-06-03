@@ -27,7 +27,7 @@ permalink: /:categories/:title
 content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
 use_authors: true #Set this to false to disable showing post authors
 
-brand_logo: https://raw.githubusercontent.com/Gozargah/gozargah.github.io/master/marzban/public/images/logo-dark.png
+brand_logo: logo-dark.png
 brand_name: Odin
 header: سلام
 subheader: Matialz
